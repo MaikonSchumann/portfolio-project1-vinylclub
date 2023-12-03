@@ -213,6 +213,19 @@ p {
   padding-top: 15px;
 }
 
+.tips {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* Iframe dimensions */
+iframe {
+  width: 600px;
+  height: 340px;
+  padding: 5px;
+  border: 1px solid #9d0000;
+}
 
 /* Footer styles */
 footer {
