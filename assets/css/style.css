@@ -55,12 +55,16 @@ nav {
     padding: 10px;
   }
 
-  /* Footer styles */
+/* Footer styles */
 footer {
   text-align: center;
   font-size: 1em;
   display: flex;
   flex-direction: column;
+}
+footer h3 {
+  margin: 10px auto;
+  border-bottom: 1px solid #9d0000;
 }
 footer p {
   margin: 10px;
