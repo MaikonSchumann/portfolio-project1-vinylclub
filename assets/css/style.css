@@ -74,6 +74,13 @@ main {
 #hero p {
   padding: 15px;
 }
+#hero-image {
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.2), #000000),
+    url("/assets/images/hero.jpg");
+  width: 600px;
+  height: 324px;
+  max-width: 600px;
+}
 
 /* Footer styles */
 footer {
