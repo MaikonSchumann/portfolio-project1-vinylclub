@@ -73,6 +73,12 @@ nav {
   border-radius: 5px;
 }
 
+/* Active class to be shown on the current page */
+.active {
+  text-decoration: underline;
+}
+
+
 /* Main section general styles */
 main {
   display: flex;
