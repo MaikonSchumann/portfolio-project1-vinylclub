@@ -91,6 +91,44 @@ main {
   line-height: 25px;
 }
 
+/* Times section */
+#times {
+  height: fit-content;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-right: 10%;
+  margin-left: 10%;
+  margin-bottom: 20px;
+  border: 1px solid red;
+}
+#times div {
+  text-align: center;
+  flex-basis: 200px;
+  flex-grow: 1;
+}
+
+.music-styles {
+  text-align: center;
+  flex-grow: 1;
+  margin: 5px;
+}
+
+.text-times {
+  color: #d9d9d9;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 150px;
+  padding: 10px;
+  border: 1px solid red;
+}
+.text-times > p {
+  margin: 0;
+}
+
+
 /* Footer styles */
 footer {
   text-align: center;
