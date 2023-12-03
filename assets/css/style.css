@@ -164,6 +164,24 @@ main > h2 {
   background: url("/assets/images/funk.jpg") no-repeat center/cover;
 }
 
+/* Join Button */
+#join-button {
+  font-size: 1.2em;
+  background-color: #9d0000;
+  padding: 10px 15px;
+  text-align: center;
+  margin: auto;
+  color: #d9d9d9;
+  border-radius: 5px;
+}
+#join-button > a {
+  color: #d9d9d9;
+  text-decoration: none;
+}
+#join-button:hover {
+  background-color: rgb(168, 89, 89);
+}
+
 /* Footer styles */
 footer {
   text-align: center;
