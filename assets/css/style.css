@@ -6,15 +6,26 @@
 
 /* General styles */
 body {
-    color: #d9d9d9;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    background-color: #000000;
-    color: #d9d9d9;
-  }
+  color: #d9d9d9;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+  color: #d9d9d9;
+}
 
 a {
-    color: #d9d9d9;
-    text-decoration: none;
+  color: #d9d9d9;
+  text-decoration: none;
+}
+
+/* Header styles*/
+header {
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), #000000),
+    url("/assets/images/header.jpg");
+  width: 100%;
+  height: 600px;
+  background-size: cover;
+  background-position: 50% 0;
+  background-repeat: no-repeat;
 }
