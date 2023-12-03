@@ -147,6 +147,23 @@ main > h2 {
   margin: 0;
 }
 
+/* Background images to time table*/
+.rock {
+  background: url("/assets/images/rock.jpg") no-repeat center/cover;
+}
+.blues {
+  background: url("/assets/images/blues.jpg") no-repeat center/cover;
+}
+.jazz {
+  background: url("/assets/images/jazz.jpg") no-repeat center/cover;
+}
+.hiphop {
+  background: url("/assets/images/hiphop.jpg") no-repeat center/cover;
+}
+.funk {
+  background: url("/assets/images/funk.jpg") no-repeat center/cover;
+}
+
 /* Footer styles */
 footer {
   text-align: center;
