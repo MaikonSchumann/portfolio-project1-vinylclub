@@ -238,7 +238,7 @@ footer p {
 }
 
 /* For media screens sizes from 1124px wide and down */
-@media screen and (max-width: 1124px) {
+@media screen and (max-width: 1139px) {
   #hero-text {
     order: 0;
   }
