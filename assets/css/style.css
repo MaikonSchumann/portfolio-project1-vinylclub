@@ -37,3 +37,16 @@ header {
     margin-left: 10%;
     margin-top: 10%;
   }
+
+/* Menu */
+  #menu {
+    font-size: 120%;
+    letter-spacing: 0.125rem;
+    padding: 10px 5px;
+  }
+  #menu a {
+    float: right;
+    margin-right: 25px;
+    margin-top: 15px;
+    padding: 10px;
+  }
