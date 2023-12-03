@@ -81,6 +81,15 @@ main {
   height: 324px;
   max-width: 600px;
 }
+#hero-text {
+  max-width: 600px;
+  min-width: 200px;
+  flex-basis: 300px;
+  flex-grow: 1;
+  text-align: center;
+  margin: auto;
+  line-height: 25px;
+}
 
 /* Footer styles */
 footer {
