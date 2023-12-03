@@ -236,3 +236,13 @@ footer p {
     padding-top: 400px;
   }
 }
+
+/* For media screens sizes from 1124px wide and down */
+@media screen and (max-width: 1124px) {
+  #hero-text {
+    order: 0;
+  }
+  #hero-image {
+    order: 1;
+  }
+}
