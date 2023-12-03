@@ -274,6 +274,9 @@ footer p {
     margin-right: auto;
     padding-top: 400px;
   }
+  iframe {
+    width: 300px;
+  }
 }
 
 /* For media screens sizes from 1124px wide and down */
