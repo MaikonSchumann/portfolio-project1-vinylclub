@@ -74,6 +74,12 @@ main {
   justify-content: center;
   flex: 1 0 auto;
 }
+
+main > h2 {
+  text-align: center;
+  padding: 20px 0;
+}
+
 /* Index file - Main section */
 #hero {
   color: #d9d9d9;
@@ -140,7 +146,6 @@ main {
 .text-times > p {
   margin: 0;
 }
-
 
 /* Footer styles */
 footer {
