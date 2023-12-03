@@ -54,3 +54,25 @@ header {
     margin-top: 15px;
     padding: 10px;
   }
+
+  /* Footer styles */
+footer {
+  text-align: center;
+  font-size: 1em;
+  display: flex;
+  flex-direction: column;
+}
+footer p {
+  margin: 10px;
+  font-size: 0.8em;
+}
+
+#social {
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+  /* margin-bottom: 20px; */
+}
+#social > a {
+  font-size: 2rem;
+}
