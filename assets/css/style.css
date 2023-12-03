@@ -29,3 +29,11 @@ header {
   background-position: 50% 0;
   background-repeat: no-repeat;
 }
+
+/* Bringing logo to front of background image and set it to left side */
+#logo {
+    float: left;
+    font-size: 280%;
+    margin-left: 10%;
+    margin-top: 10%;
+  }
