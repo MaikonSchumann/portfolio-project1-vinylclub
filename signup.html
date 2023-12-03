@@ -56,9 +56,70 @@
 
     <!-- Main section -->
     <main>
-
-
-    </main>
+        <section class="contact-section">
+          <form
+            method="POST"
+            action="https://formdump.codeinstitute.net/"
+            class="get-in-touch"
+          >
+            <h2>Let's Groove!<i class="fa-solid fa-music"></i></h2>
+            <label for="fname">First Name</label>
+            <input
+              id="fname"
+              class="text-input"
+              name="first_name"
+              type="text"
+              placeholder="James"
+              required
+            />
+  
+            <label for="lname">Last Name</label>
+            <input
+              id="lname"
+              class="text-input"
+              name="last_name"
+              type="text"
+              placeholder="Brown"
+              required
+            />
+  
+            <label for="email">Email Address</label>
+            <input
+              type="email"
+              id="email"
+              class="text-input"
+              name="email_address"
+              placeholder="jamesbrown@dublinvinylclub.com"
+              required
+            />
+            <input
+              type="radio"
+              id="feedback"
+              name="contact"
+              value="feedback"
+              checked
+              required
+            />
+            <label for="feedback">Feedback </label>
+            <input
+              type="radio"
+              id="question"
+              name="contact"
+              value="question"
+              required
+            />
+            <label for="question">Question </label>
+            <textarea
+              id="textarea"
+              name="text"
+              placeholder="your message.."
+              required
+            ></textarea>
+            <input class="send-button" type="submit" value="Send Message" />
+          </form>
+        </section>
+      </main>
+  
 
     <!-- Footer Section -->
     <footer>
