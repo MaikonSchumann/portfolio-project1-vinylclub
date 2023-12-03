@@ -29,6 +29,13 @@ a {
   text-decoration: none;
 }
 
+p {
+  font-size: 1.2em;
+  line-height: 25px;
+  text-align: center;
+  margin: auto;
+}
+
 /* Header styles*/
 nav {
   background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), #000000),
