@@ -107,7 +107,7 @@ main > h2 {
 }
 #hero-image {
   background-image: linear-gradient(to top, rgba(0, 0, 0, 0.2), #000000),
-    url("./assets/images/hero.jpg");
+    url("../images/hero.webp");
   width: 600px;
   height: 324px;
   max-width: 600px;
@@ -161,19 +161,19 @@ main > h2 {
 
 /* Background images to time table*/
 .rock {
-  background: url("./assets/images/rock.jpg") no-repeat center/cover;
+  background: url("../images/rock.webp") no-repeat center/cover;
 }
 .blues {
-  background: url("./assets/images/blues.jpg") no-repeat center/cover;
+  background: url("../images/blues.webp") no-repeat center/cover;
 }
 .jazz {
-  background: url("./assets/images/jazz.jpg") no-repeat center/cover;
+  background: url("../images/jazz.webp") no-repeat center/cover;
 }
 .hiphop {
-  background: url("./assets/images/hiphop.jpg") no-repeat center/cover;
+  background: url("../images/hiphop.webp") no-repeat center/cover;
 }
 .funk {
-  background: url("./assets/images/funk.jpg") no-repeat center/cover;
+  background: url("../images/funk.webp") no-repeat center/cover;
 }
 
 /* Join Button */
