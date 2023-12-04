@@ -7,3 +7,11 @@ Welcome to Dublin Vinyl Club, where the heartbeat of analogue music echoes throu
 ## Demo
 
 A live demo can be found [here](https://maikonschumann.github.io/portfolio-project1-vinylclub/)
+
+- - - 
+
+# Languages Used
+* HTML5
+* CSS3
+
+- - - 
