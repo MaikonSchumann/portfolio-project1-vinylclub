@@ -96,3 +96,21 @@ Footer Social Icons facilitate ongoing connection via our community's social pla
 ![Dublin Vinyl Club Footer](documentation/footer.png)
 
 - - - 
+
+# **About Us page**
+
+The *About us* is also divided by 3 sections, *header*, *main section* and *footer*. The [Header](#header) and the [Footer](#footer) are the same as index page. 
+
+## Main Section
+
+### Who We Are Section
+
+The **About** page is divided into two sections, a section with a *Who We Are* text providing future members with a balanced connection to the community without overwhelming them with information. Initially, the page shares the story of our community, followed by details about the vinyl experience. Subsequently, we elaborate on our commitment to our community of members, encouraging individuals to join our vibrant community.
+![Dublin Vinyl Club about](documentation/about.png)
+
+### Tips Section
+
+Finally, at the bottom of the page (just above the footer), there is a video providing tips on how to take care of your classic vinyl records.
+![Dublin Vinyl Club Tips](documentation/tips.png) 
+
+- - - 
