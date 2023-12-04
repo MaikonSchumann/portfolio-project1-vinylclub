@@ -114,3 +114,14 @@ Finally, at the bottom of the page (just above the footer), there is a video pro
 ![Dublin Vinyl Club Tips](documentation/tips.png) 
 
 - - - 
+
+# **Sign Up page**
+
+The *Sign Up page* is also divided by 3 sections, *header*, *main section* and *footer*. The [Header](#header) and the [Footer](#footer) are the same as index page. 
+
+## Main Section
+
+The **Sign Up** page features a user-friendly contact form, prompting for the user's name and email, with a dedicated area for leaving a message. Users can indicate whether they prefer to ask a question or dive right in. The form's bottom includes a "Send Message" button.
+![Dublin Vinyl Club Form](documentation/form.png) 
+
+- - -
