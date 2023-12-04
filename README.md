@@ -59,3 +59,25 @@ The *header* features a *logo* and a *navigation bar* set against an intuitive i
 ![Dublin Vinyl Club Header](/documentation/header.png)
 
 - - - 
+
+## Main Section
+
+The *main section* has two sections and a sign up button, the *hero section* and the *times section*.
+
+### Hero Section
+
+The *hero* features an image accompanied by a brief paragraph introducing the website, aiming to create a positive impact on the user.
+![Dublin Vinyl Club Hero](documentation/hero.png)
+
+### Times Section
+
+Below the image the user will find brief information to awake the interest to participate in the community.
+After reinforcing the emotional response positively in the user, there are upcoming meetings with dates and locations.
+![Dublin Vinyl Club Meetings Times](documentation/times.png)
+
+### Join Button
+
+A *Join Button* near the end of the index page provides quick access to the signup page, allowing users to easily reach a destination where they can request any information they need.
+![Dublin Vinyl Club Join Button](documentation/joinbutton.png)
+
+- - - 
