@@ -321,24 +321,24 @@ footer p {
 
 
 /* Media queries */
-/* For medium screens sizes from 635px wide and down */
-@media screen and (max-width: 635px) {
+/* For medium screens sizes from 720px wide and down */
+@media screen and (max-width: 720px) {
   #logo {
     width: 100%;
-    height: 75px;
+    font-size: 160%;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    line-height: 90px;
+    line-height: 80px;
   }
 
   #menu {
     width: fit-content;
     height: 75px;
-    font-size: 100%;
+    font-size: 110%;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 400px;
+    padding-top: 350px;
   }
   iframe {
     width: 300px;
