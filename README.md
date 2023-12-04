@@ -42,3 +42,20 @@ A live demo can be found [here](https://maikonschumann.github.io/portfolio-proje
  * I want to find quick access to social media links.
 
 - - -
+
+# Design
+
+## Features
+
+The website consists of three pages: the index page, the about page, and the signup page. Each page includes a **logo**, a **navigation bar**, and a **footer**.
+
+# **Index page**
+
+The **Home** page is divided into 3 sections, *header*, *main section* and *footer*.
+
+## Header
+
+The *header* features a *logo* and a *navigation bar* set against an intuitive image background, meticulously crafted to elevate user experience and make a lasting impact. **This distinctive header remains consistently visible across all pages**.
+![Dublin Vinyl Club Header](/documentation/header.png)
+
+- - - 
