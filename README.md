@@ -19,8 +19,8 @@ A live demo can be found [here](https://maikonschumann.github.io/portfolio-proje
 # User Experience (UX)
 
 ## The ideal users for this community is:
- * Searching for people who loves music. 
- * Lives in Dublin.
+ * Individuals passionate about music. 
+ * Based in Dublin.
  * Attend vinyl record fairs, conventions, or music events in Dublin area.
  * Check for local meetup groups focused on vinyl enthusiasts.
 
@@ -29,9 +29,9 @@ A live demo can be found [here](https://maikonschumann.github.io/portfolio-proje
 ### First Time Visitor Goals
  * As a new visitor to the website, I expect to easily to understand the main purpose of the site and navigate without complications. 
  * I can find what I search efficiently.
- * I want to learn more about the community, so I can feel comfortable to meet the group.
- * As an interested member, I want to know how I can take parte of it.
- * I also want to find their social media links to see their followings and their comments.
+ * Learn more about the community for a comfortable introduction to the group.
+ * Understand how to actively participate as a member.
+ * Access social media links to explore the community's following and comments.
 
 ### As a Returning Visitor
  * I want to find precise information about the next session.
