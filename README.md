@@ -89,3 +89,10 @@ A *Join Button* near the end of the index page provides quick access to the sign
 ![Dublin Vinyl Club Join Button](documentation/joinbutton.png)
 
 - - - 
+
+## Footer 
+
+Footer Social Icons facilitate ongoing connection via our community's social platforms, encouraging users to stay connected effortlessly through social media. Links open in new tabs for user-friendly navigation. **This distinctive footer remains consistently visible across all pages**.
+![Dublin Vinyl Club Footer](documentation/footer.png)
+
+- - - 
