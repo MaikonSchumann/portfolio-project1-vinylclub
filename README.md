@@ -175,7 +175,7 @@ All images on the website are from [Unsplash](https://unsplash.com/) and [Pexels
 - - - 
 
 # Icons
-The website's icons are sourced from [Font Awesome.](https://fontawesome.com/icons), and are covered under a free license.
+The website's icons are sourced from [Font Awesome](https://fontawesome.com/icons), and are covered under a free license.
 
 - - - 
 
@@ -196,7 +196,7 @@ To deploy the page on GitHub Pages from its [GitHub repository](https://github.c
 ## Run locally
 **Fork:**
 1. Login or Sign Up to GitHub.
-2. Open the project [repository.](https://github.com/MaikonSchumann/portfolio-project1-vinylclub).
+2. Open the project [repository](https://github.com/MaikonSchumann/portfolio-project1-vinylclub).
 3. Click the Fork button in the top right corner.
 
 **Clone:**
