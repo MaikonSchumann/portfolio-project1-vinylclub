@@ -146,3 +146,17 @@ Enhance user navigation by adding a "Back to Top" button for quick and convenien
 Optimize responsiveness with a hamburger menu, particularly beneficial for mobile users. Ensure an intuitive and accessible menu structure.
 
 - - - 
+
+# Color Scheme
+
+The black color scheme was selected to impart a modern, minimalist, and elegant aesthetic, without detracting from the visual impact of the images.
+
+![Dublin Vinyl Club Color Palette](documentation/colors.png)
+
+- - - 
+
+# Typography
+
+The website utilizes a singular font, specifically **Lekton** from **Google Fonts**, maintaining a uniform and cohesive typographic style.
+
+- - - 
