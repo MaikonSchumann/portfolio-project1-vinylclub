@@ -159,4 +159,15 @@ The black color scheme was selected to impart a modern, minimalist, and elegant 
 
 The website utilizes a singular font, specifically **Lekton** from **Google Fonts**, maintaining a uniform and cohesive typographic style.
 
+- - -
+
+# Images
+
+All images on the website are from [Unsplash](https://unsplash.com/) and [Pexels](https://www.pexels.com), both under a free license agreement.
+
+- - - 
+
+# Icons
+The website's icons are sourced from [Font Awesome.](https://fontawesome.com/icons), and are covered under a free license.
+
 - - - 
