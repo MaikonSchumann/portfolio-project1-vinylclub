@@ -125,3 +125,24 @@ The **Sign Up** page features a user-friendly contact form, prompting for the us
 ![Dublin Vinyl Club Form](documentation/form.png) 
 
 - - -
+
+# Future Implementations
+
+Further development of the website, including the addition of more pages and improved responsiveness, will necessitate additional time and expertise.
+
+- FAQ page - 
+Develop a comprehensive FAQ page to address common user queries, reducing the need for direct support and improving user satisfaction.
+
+- CAPTCHA - 
+Implement CAPTCHA on signup form to prevent spam submissions and maintain the integrity of user interactions.
+
+- Blog - 
+Introduce a blog section with relevant articles to build user confidence, attract new members, and increase overall site traffic.
+
+- Button back to the top - 
+Enhance user navigation by adding a "Back to Top" button for quick and convenient scroll-free return to the page's beginning.
+
+- Menu "hamburger" - 
+Optimize responsiveness with a hamburger menu, particularly beneficial for mobile users. Ensure an intuitive and accessible menu structure.
+
+- - - 
