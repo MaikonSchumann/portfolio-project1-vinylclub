@@ -207,3 +207,15 @@ To deploy the page on GitHub Pages from its [GitHub repository](https://github.c
 5. Type 'git clone' in the terminal, paste the link from step 3, and press enter.
 
 - - -
+
+# Testing 
+The site is designed to smoothly operate, making it easy for users to achieve their goals. Chrome development tools were utilized to catch and fix any issues during the development process. Performance testing was conducted through both manual and automated methods.
+
+## Usability
+The Navigation was tested. The menu is easily visible, consistent on all webpages. The users find resources on the site intuitively.
+
+## Compatibility 
+The website is optimized to display correctly on a variety of browsers and screen sizes. The compatibility was checked by testing on Chrome, Firefox, Safari, and Edge.
+
+## Responsiveness
+Checked responsiveness using Chrome DevTools on various screens like iPhone 5 (320px wide) and 5k iMac Pro (5120x2880px). Used media queries for more responsiveness.
