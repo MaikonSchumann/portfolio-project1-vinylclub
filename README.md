@@ -211,6 +211,19 @@ To deploy the page on GitHub Pages from its [GitHub repository](https://github.c
 # Testing 
 The site is designed to smoothly operate, making it easy for users to achieve their goals. Chrome development tools were utilized to catch and fix any issues during the development process. Performance testing was conducted through both manual and automated methods.
 
+## Functionality
+
+1. Validation for syntax errors on every page of the project was conducted through the utilization of the W3C Markup Validator and W3C CSS Validator Services.
+
+  * Index Page
+![Index Page HTML](documentation/testing/w3index.png)
+  * About Page
+![About Page HTML](documentation/testing/w3about.png)
+  * Sign Up Page
+![Sign Up Page HTML](documentation/testing/w3signup.png)
+  * CSS Page
+![CSS Page](documentation/testing/w3ccss.png)
+
 ## Usability
 The Navigation was tested. The menu is easily visible, consistent on all webpages. The users find resources on the site intuitively.
 
