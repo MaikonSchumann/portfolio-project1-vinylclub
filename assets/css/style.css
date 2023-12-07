@@ -1,0 +1,356 @@
+/* Font Imported from Google fonts */
+@import url("https://fonts.googleapis.com/css2?family=Lekton:wght@400;700&display=swap");
+
+/* Root styles */
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/* General styles */
+body {
+  color: #d9d9d9;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+  color: #d9d9d9;
+  font-family: "Lekton", sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  text-transform: uppercase;
+}
+
+a {
+  color: #d9d9d9;
+  text-decoration: none;
+}
+
+p {
+  font-size: 1.2em;
+  line-height: 25px;
+  text-align: center;
+  margin: auto;
+}
+
+/* Header styles*/
+nav {
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.2), #000000),
+    url("../images/header.webp");
+  width: 100%;
+  height: 600px;
+  background-size: cover;
+  background-position: 50% 0;
+  background-repeat: no-repeat;
+}
+
+/* Bringing logo to front of background image and set it to left side */
+#logo {
+  float: left;
+  font-size: 280%;
+  margin-left: 10%;
+  margin-top: 10%;
+}
+
+/* Menu */
+#menu {
+  font-size: 120%;
+  letter-spacing: 0.125rem;
+  padding: 10px 5px;
+}
+#menu a {
+  float: right;
+  margin-right: 25px;
+  margin-top: 15px;
+  padding: 10px;
+}
+#menu a:hover {
+  background-color: #d9d9d9;
+  color: #252525;
+  border-radius: 5px;
+}
+
+/* Active class to be shown on the current page */
+.active {
+  text-decoration: underline;
+}
+
+
+/* Main section general styles */
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex: 1 0 auto;
+}
+
+main > h2 {
+  text-align: center;
+  padding: 20px 0;
+}
+
+/* Index file - Main section */
+#hero {
+  color: #d9d9d9;
+  max-width: 80%;
+  margin: 5px auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+#hero p {
+  padding: 15px;
+}
+#hero-image {
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.2), #000000),
+    url("../images/hero.webp");
+  width: 600px;
+  height: 324px;
+  max-width: 600px;
+}
+#hero-text {
+  max-width: 600px;
+  min-width: 200px;
+  flex-basis: 300px;
+  flex-grow: 1;
+  text-align: center;
+  margin: auto;
+  line-height: 25px;
+}
+
+/* Times section */
+#times {
+  height: fit-content;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-right: 10%;
+  margin-left: 10%;
+  margin-bottom: 20px;
+  /* border: 1px solid red; */
+}
+#times div {
+  text-align: center;
+  flex-basis: 200px;
+  flex-grow: 1;
+}
+
+.music-styles {
+  text-align: center;
+  flex-grow: 1;
+  margin: 5px;
+}
+
+.text-times {
+  color: #d9d9d9;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 150px;
+  padding: 10px;
+  /* border: 1px solid red; */
+}
+.text-times > p {
+  margin: 0;
+}
+
+/* Background images to time table*/
+.rock {
+  background: url("../images/rock.webp") no-repeat center/cover;
+}
+.blues {
+  background: url("../images/blues.webp") no-repeat center/cover;
+}
+.jazz {
+  background: url("../images/jazz.webp") no-repeat center/cover;
+}
+.hiphop {
+  background: url("../images/hiphop.webp") no-repeat center/cover;
+}
+.funk {
+  background: url("../images/funk.webp") no-repeat center/cover;
+}
+
+/* Join Button */
+#join-button {
+  font-size: 1.2em;
+  background-color: #9d0000;
+  padding: 10px 15px;
+  text-align: center;
+  margin: auto;
+  color: #d9d9d9;
+  border-radius: 5px;
+}
+#join-button > a {
+  color: #d9d9d9;
+  text-decoration: none;
+}
+#join-button:hover {
+  background-color: rgb(168, 89, 89);
+}
+
+/* About file - Main Section */
+.about-us-text h1 {
+  text-align: center;
+  font-size: 260%;
+}
+.about-us-text {
+  width: 80%;
+  padding: 30px;
+  color: #252525;
+  background-color: #d9d9d9;
+  margin: auto;
+  border-radius: 10px;
+}
+.about-us-text h2,
+p {
+  text-align: center;
+  padding-top: 15px;
+}
+
+.tips {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* Iframe dimensions */
+iframe {
+  width: 600px;
+  height: 340px;
+  padding: 5px;
+  border: 1px solid #9d0000;
+}
+
+/* Signup file - Main section */
+form i {
+  color: #252525;
+}
+
+input {
+  padding: 5px;
+}
+
+.contact-section {
+  background-color: #000000;
+  padding: 50px 0;
+  margin: 15px 20px;
+  font-size: 160%;
+}
+
+.get-in-touch {
+  color: #252525;
+  background-color: #d9d9d9;
+  max-width: 400px;
+  padding: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px;
+}
+.get-in-touch > h2 {
+  color: #252525;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.text-input {
+  color: #252525;
+  width: 100%;
+  height: 25px;
+  margin: 5px 0 20px 0;
+  border: 1px solid #fff;
+  border-radius: 2px;
+}
+.text-input:hover {
+  border-color: #252525;
+}
+
+#textarea {
+  width: 400px;
+  height: 100px;
+  padding: 5px;
+  max-width: 100%;
+  margin: 10px 0 20px 0;
+  border: 1px solid #fff;
+  border-radius: 2px;
+}
+
+.send-button {
+  color: #d9d9d9;
+  background-color: #9d0000;
+  display: block;
+  font-size: 90%;
+  padding: 10px;
+  border-radius: 5px;
+}
+.send-button:hover {
+  background-color: rgb(168, 89, 89);
+  color: #252525;
+}
+
+/* Footer styles */
+footer {
+  text-align: center;
+  font-size: 1em;
+  display: flex;
+  flex-direction: column;
+}
+footer h3 {
+  margin: 10px auto;
+  border-bottom: 1px solid #9d0000;
+}
+footer p {
+  margin: 10px;
+  font-size: 0.8em;
+}
+
+#social {
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+  /* margin-bottom: 20px; */
+}
+#social > a {
+  font-size: 2rem;
+}
+
+
+/* Media queries */
+/* For medium screens sizes from 720px wide and down */
+@media screen and (max-width: 720px) {
+  #logo {
+    width: 100%;
+    font-size: 160%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    line-height: 80px;
+  }
+
+  #menu {
+    width: fit-content;
+    height: 75px;
+    font-size: 110%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 350px;
+  }
+  iframe {
+    width: 300px;
+  }
+}
+
+/* For media screens sizes from 1124px wide and down */
+@media screen and (max-width: 1139px) {
+  #hero-text {
+    order: 0;
+  }
+  #hero-image {
+    order: 1;
+  }
+}
