@@ -22,6 +22,7 @@ A live demo can be found [here](https://maikonschumann.github.io/portfolio-proje
   * [Icons](#icons)
 * [Deployment](#deployment)
   * [Run locally](#run-locally)
+  * [Testing](#testing)
 
 - - -
 
@@ -223,6 +224,14 @@ The site is designed to smoothly operate, making it easy for users to achieve th
 ![Sign Up Page HTML](documentation/testing/w3signup.png)
   * CSS Page
 ![CSS Page](documentation/testing/w3ccss.png)
+
+2. Lighthouse within the Chrome Developer Tools are used to test performance, accessibility, best practices and SEO of the Dublin Vinyl Club Website.
+ * Index Page
+![Index Page HTML](documentation/testing/indexlighthouse.png)
+  * About Page
+![About Page HTML](documentation/testing/aboutlighthouse.png)
+  * Sign Up Page
+![Sign Up Page HTML](documentation/testing/signuplighthouse.png)
 
 ## Usability
 The Navigation was tested. The menu is easily visible, consistent on all webpages. The users find resources on the site intuitively.
