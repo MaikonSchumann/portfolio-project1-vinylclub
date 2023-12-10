@@ -6,7 +6,7 @@ Welcome to Dublin Vinyl Club, where the heartbeat of analogue music echoes throu
 
 ## Demo
 
-A live demo can be found [here](https://maikonschumann.github.io/portfolio-project1-vinylclub/)
+A live demo can be found [here.](https://maikonschumann.github.io/portfolio-project1-vinylclub/)
 
 - - - 
 
@@ -60,6 +60,17 @@ A live demo can be found [here](https://maikonschumann.github.io/portfolio-proje
 - - -
 
 # Design
+
+## Wireframes:
+
+* Index Page:
+![Index Page Wireframe](documentation/wireframes/indexwireframe.png)
+
+* About Page:
+![About Page Wireframe](documentation/wireframes/aboutwireframe.png)
+
+* Sign Up Page:
+![Sign UP Page Wireframe](documentation/wireframes/signupwireframe.png)
 
 ## Features
 
