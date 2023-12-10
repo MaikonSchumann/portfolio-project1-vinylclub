@@ -253,3 +253,18 @@ The website is optimized to display correctly on a variety of browsers and scree
 
 ## Responsiveness
 Checked responsiveness using Chrome DevTools on various screens like iPhone 5 (320px wide) and 5k iMac Pro (5120x2880px). Used media queries for more responsiveness.
+
+- - - 
+
+# Credits
+
+All images on the website are from [Unsplasch](https://unsplash.com/) and [Pexels](https://www.pexels.com), both under a free license agreement.
+
+All content was written by me.
+
+- - -
+
+# Acknowledgements
+* I appreciate my family's patience as I dedicate considerable time to coding.
+
+* My Mentor Lauren-Nicole Popich for continuous helpful feedback.
