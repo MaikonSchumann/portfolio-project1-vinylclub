@@ -24,6 +24,8 @@ A live demo can be found [here.](https://maikonschumann.github.io/portfolio-proj
 * [Deployment](#deployment)
   * [Run locally](#run-locally)
   * [Testing](#testing)
+* [Credits](#credits)
+* [Acknowledgements](#acknowledgements)
 
 - - -
 
