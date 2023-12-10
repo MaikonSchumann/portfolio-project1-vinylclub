@@ -15,6 +15,7 @@ A live demo can be found [here.](https://maikonschumann.github.io/portfolio-proj
 * [User Experience](#user-experience-ux)
 * [Design](#design)
   * [Features](#features)
+  * [Wireframes](#wireframes)
   * [Future Implementations](#future-implementations)
   * [Color Scheme](#color-scheme)
   * [Typography](#typography)
