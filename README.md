@@ -253,7 +253,7 @@ Checked responsiveness using Chrome DevTools on various screens like iPhone 5 (3
 
 # Credits
 
-All images on the website are from [Unsplasch](https://unsplash.com/) and [Pexels](https://www.pexels.com), both under a free license agreement.
+All images on the website are from [Unsplash](https://unsplash.com/) and [Pexels](https://www.pexels.com), both under a free license agreement.
 
 All content was written by me.
 
