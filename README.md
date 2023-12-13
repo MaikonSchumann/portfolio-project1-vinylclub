@@ -219,6 +219,10 @@ To deploy the page on GitHub Pages from its [GitHub repository](https://github.c
 # Testing 
 The site is designed to smoothly operate, making it easy for users to achieve their goals. Chrome development tools were utilized to catch and fix any issues during the development process. Performance testing was conducted through both manual and automated methods.
 
+1. All website buttons perform as expected when clicked.
+
+2. Social links and all other site links open in new pages.
+
 ## Functionality
 
 1. Validation for syntax errors on every page of the project was conducted through the utilization of the W3C Markup Validator and W3C CSS Validator Services.
@@ -239,6 +243,14 @@ The site is designed to smoothly operate, making it easy for users to achieve th
 ![About Page HTML](documentation/testing/aboutlighthouse.png)
   * Sign Up Page
 ![Sign Up Page HTML](documentation/testing/signuplighthouse.png)
+
+3. The Sign Up form requires all fields to be completed before submission.
+  * Sign Up Form
+![Sign Up Form](documentation/testing/testingform.png)
+
+4. After submitting the contact form, the user is redirected to a new page.
+  * Submitted page.
+![Sign Up Form](documentation/testing/testingsubmission.png)
 
 ## Usability
 The Navigation was tested. The menu is easily visible, consistent on all webpages. The users find resources on the site intuitively.
